@@ -7,7 +7,7 @@
     "terminal.integrated.shell.linux": "/usr/bin/bash",
     "workbench.colorCustomizations": {
 
-
+//The write rabbit starts here.
         
         "editor.background": "#081b11",
         "editor.foreground": "#93c2ad",
@@ -39,6 +39,8 @@
         "minimap.selectionHighlight": "#196dab",
         
         "minimap.findMatchHighight": "#871f00"
+
+//Here ends the write rabbit.
         
     }
 }
