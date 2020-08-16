@@ -1,0 +1,40 @@
+{
+	"icon": "images/paulomatrixicon_cut_fxpjzn.png",
+	"galleryBanner": {
+		"color": "#0f1a14",
+		"theme": "light"
+	},
+	"publisher": "PauloSouza",
+	"bugs": {
+		"url": "https://github.com/Pauloparakleto/matrix_theme_for_vscode/issues",
+		"email": "alparakleto@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Pauloparakleto/matrix_theme_for_vscode"
+	},
+	"name": "matrix-revolution-color-theme",
+	"displayName": "Matrix Revolution Color Theme",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Matrix Revolution Color Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/matrix-revolution-dark-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e0913ec6-1612-47e8-aca7-fd81a421a396",
+		"publisherDisplayName": "Paulo Souza",
+		"publisherId": "dfe9db1d-c29a-428c-8bc9-8282e84f9462"
+	}
+}
